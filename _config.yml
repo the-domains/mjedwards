@@ -1,0 +1,28 @@
+name: MJEdwards
+favicon: null
+layout_spectrum: 0.9922158964909613
+typography_spectrum: 0.5531345591880381
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6413099691271782
+  lightness: 0.5631041275337338
+  saturation: 0.61544682062231
+  rhythmicContrast: 0.9594523515552282
+purpose: []
